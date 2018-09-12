@@ -20,4 +20,6 @@ asfasf
 afasf
 asfaf asfasf asfas asfa asf asf
 asfas asdas asdasfd asfasf asfasf
+
+newline ni
 # OJT
